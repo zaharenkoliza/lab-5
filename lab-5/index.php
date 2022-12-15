@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-    $xml = simplexml_load_file("data.xml") or die("Error: Cannot create object");
-?>
-
 <head>
     <meta charset="utf-8" /> 
     <title>FlowerShop</title>
